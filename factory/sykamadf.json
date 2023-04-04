@@ -1,0 +1,9 @@
+{
+	"name": "sykamadf",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "03a8a96d-57e5-44df-8917-d903b0ef9c4f",
+		"tenantId": "2c4fc387-40cd-4af0-8013-4053e697af49"
+	}
+}
